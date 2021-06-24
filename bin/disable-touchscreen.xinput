@@ -1,0 +1,9 @@
+list(){
+xinput --list
+}
+
+disable(){
+xinput disable 14
+}
+
+disable
